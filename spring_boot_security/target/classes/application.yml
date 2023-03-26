@@ -1,1 +1,0 @@
-##spring: ## security:  ##  oauth2:    ##  client:      #  registration:       #   google:        #  clientId: 847145452435-el3eor1i0867hmvqn03r42bncd54t3r2.apps.googleusercontent.com         # clientSecret:  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                    
